@@ -4,9 +4,9 @@ A **client-side password generator** that uses the Web Crypto API for cryptograp
 
 [![Live Demo](https://img.shields.io/badge/demo-live-success)](https://dynamicpassgen.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/password-generator?style=social)](https://github.com/yourusername/password-generator)
+[![GitHub stars](https://img.shields.io/github/stars/atypicvoyage-droid/dynamic-password-generator?style=social)](https://github.com/atypicvoyage-droid/dynamic-password-generator)
 
-[**🚀 Try it Live**](https://dynamicpassgen.com) | [**📖 Documentation**](#features) | [**🐛 Report Bug**](https://github.com/yourusername/password-generator/issues)
+[**🚀 Try it Live**](https://dynamicpassgen.com) | [**📖 Documentation**](#features) | [**🐛 Report Bug**](https://github.com/atypicvoyage-droid/dynamic-password-generator/issues)
 
 ---
 
@@ -66,7 +66,7 @@ Visit **[dynamicpassgen.com](https://dynamicpassgen.com)** to use the tool immed
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/atypicvoyage-droid/dynamic-password-generator.git
    cd password-generator
    ```
 
@@ -361,17 +361,17 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🔗 Links
 
 - **Live Demo:** [dynamicpassgen.com](https://dynamicpassgen.com)
-- **Report Bug:** [GitHub Issues](https://github.com/yourusername/password-generator/issues)
-- **Request Feature:** [GitHub Discussions](https://github.com/yourusername/password-generator/discussions)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **Report Bug:** [GitHub Issues](https://github.com/atypicvoyage-droid/dynamic-password-generator/issues)
+- **Request Feature:** [GitHub Discussions](https://github.com/atypicvoyage-droid/dynamic-password-generator/discussions)
+
 
 ---
 
 ## 📈 Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/password-generator)
-![GitHub code size](https://img.shields.io/github/languages/code-size/yourusername/password-generator)
-![Lines of code](https://img.shields.io/tokei/lines/github/yourusername/password-generator)
+![GitHub repo size](https://img.shields.io/github/repo-size/atypicvoyage-droid/dynamic-password-generator)
+![GitHub code size](https://img.shields.io/github/languages/code-size/atypicvoyage-droid/dynamic-password-generator)
+![Lines of code](https://img.shields.io/tokei/lines/github/atypicvoyage-droid/dynamic-password-generator)
 
 ---
 
@@ -379,7 +379,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 If this project helped you, consider giving it a star! It helps others discover it.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/password-generator&type=Date)](https://star-history.com/#yourusername/password-generator&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=atypicvoyage-droid/dynamic-password-generator&type=Date)](https://star-history.com/#atypicvoyage-droid/dynamic-password-generator&Date)
 
 ---
 
