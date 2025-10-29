@@ -5,7 +5,7 @@ Thank you for considering contributing! Here's how you can help.
 ## 🐛 Reporting Bugs
 
 **Before submitting:**
-- Check existing [issues](https://github.com/yourusername/password-generator/issues)
+- Check existing [issues](https://github.com/atypicvoyage-droid/dynamic-password-generator/issues)
 - Test in multiple browsers
 - Verify the bug exists in latest version
 
@@ -18,7 +18,7 @@ Thank you for considering contributing! Here's how you can help.
 
 ## ✨ Suggesting Features
 
-Open a [GitHub Discussion](https://github.com/yourusername/password-generator/discussions) with:
+Open a [GitHub Discussion](https://github.com/atypicvoyage-droid/dynamic-password-generator/discussions) with:
 - Clear use case
 - Why it benefits users
 - How it fits the project goals (privacy, security, simplicity)
@@ -29,7 +29,7 @@ Open a [GitHub Discussion](https://github.com/yourusername/password-generator/di
 
 1. **Fork & Clone**
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/atypicvoyage-droid/dynamic-password-generator.git
    cd password-generator
    ```
 
@@ -87,7 +87,7 @@ Security is critical. If submitting security-related changes:
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/atypicvoyage-droid/dynamic-password-generator.git
 
 # 2. Open in browser
 open index.html
